@@ -1,0 +1,47 @@
+C:\Users\nikol\Desktop\Proj\HCI_Sat\bin\Debug\HCI_Sat.exe.config
+C:\Users\nikol\Desktop\Proj\HCI_Sat\bin\Debug\HCI_Sat.exe
+C:\Users\nikol\Desktop\Proj\HCI_Sat\bin\Debug\HCI_Sat.pdb
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat_MarkupCompile.cache
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat_MarkupCompile.lref
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat.g.resources
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat.Properties.Resources.resources
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat.exe
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\HCI_Sat.pdb
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\Main.g.cs
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\Main.baml
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\AddWin.g.cs
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\AddWin.baml
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\ChangeAdmin.g.cs
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\ChangeUser.g.cs
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\ChangeAdmin.baml
+C:\Users\nikol\Desktop\Proj\HCI_Sat\obj\Debug\ChangeUser.baml
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\bin\Debug\HCI_Sat.exe.config
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\bin\Debug\HCI_Sat.exe
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\bin\Debug\HCI_Sat.pdb
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat.csproj.AssemblyReference.cache
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\ChangeUser.g.cs
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\ChangeAdmin.g.cs
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\AddWin.g.cs
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\Main.g.cs
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\MainWindow.g.cs
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\App.g.cs
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat_MarkupCompile.cache
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat_MarkupCompile.lref
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\ChangeUser.baml
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\ChangeAdmin.baml
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\AddWin.baml
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\Main.baml
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\MainWindow.baml
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat.g.resources
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat.Properties.Resources.resources
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat.csproj.GenerateResource.cache
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat.csproj.CoreCompileInputs.cache
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat.exe
+D:\Faks 6 semestar\HCI_Sat\HCI_Sat\obj\Debug\HCI_Sat.pdb

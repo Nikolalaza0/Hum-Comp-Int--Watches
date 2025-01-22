@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfSatovi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Satovi>
+    <Ime>ASTRONOMIA</Ime>
+    <Id>546234227</Id>
+    <Date>2023-03-27T11:38:52.8504401+02:00</Date>
+    <Img>C:\Users\nikol\Desktop\Proj\HCI_Sat\Images\2.jpeg</Img>
+    <Rtf>ASTRONOMIA.rtf</Rtf>
+  </Satovi>
+  <Satovi>
+    <Ime>KNIGHTS OF THE ROUND TABLE</Ime>
+    <Id>643468</Id>
+    <Date>2023-03-24T20:24:49.0668474+01:00</Date>
+    <Img>C:\Users\nikol\Desktop\Proj\HCI_Sat\Images\3.jpeg</Img>
+    <Rtf>KNIGHTS OF THE ROUND TABLE.rtf</Rtf>
+  </Satovi>
+  <Satovi>
+    <Ime>A15-01 SAPHITE PARAIBA</Ime>
+    <Id>532673</Id>
+    <Date>2023-03-24T20:25:55.8431648+01:00</Date>
+    <Img>C:\Users\nikol\Desktop\Proj\HCI_Sat\Images\4.jpeg</Img>
+    <Rtf>A15-01 SAPHITE PARAIBA.rtf</Rtf>
+  </Satovi>
+  <Satovi>
+    <Ime>ANTOINE PREZIUSO</Ime>
+    <Id>789424</Id>
+    <Date>2023-03-24T20:26:20.8417556+01:00</Date>
+    <Img>C:\Users\nikol\Desktop\Proj\HCI_Sat\Images\5.jpeg</Img>
+    <Rtf>ANTOINE PREZIUSO.rtf</Rtf>
+  </Satovi>
+</ArrayOfSatovi>

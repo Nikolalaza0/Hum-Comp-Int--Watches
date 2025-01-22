@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|c:\\users\\nikol\\desktop\\proj_git\\hci_sat\\hci_sat\\changeuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:changeuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\changeadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:changeadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\addwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:addwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\changeadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:changeadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\dataio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:dataio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\addwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:addwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\satovi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203A935F-20B0-44A2-9435-280B268FAD89}|HCI_Sat.csproj|solutionrelative:satovi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAbAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-10-17T22:53:53.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangeAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\ChangeAdmin.xaml",
+              "RelativeDocumentMoniker": "ChangeAdmin.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\ChangeAdmin.xaml",
+              "RelativeToolTip": "ChangeAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-17T22:53:53.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeUser.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\ChangeUser.xaml",
+              "RelativeDocumentMoniker": "ChangeUser.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\ChangeUser.xaml",
+              "RelativeToolTip": "ChangeUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-17T22:53:53.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddWin.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\AddWin.xaml",
+              "RelativeDocumentMoniker": "AddWin.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\AddWin.xaml",
+              "RelativeToolTip": "AddWin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-17T22:53:53.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\ChangeAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "ChangeAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\ChangeAdmin.xaml.cs",
+              "RelativeToolTip": "ChangeAdmin.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAASwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-17T22:53:53.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddWin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\AddWin.xaml.cs",
+              "RelativeDocumentMoniker": "AddWin.xaml.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\AddWin.xaml.cs",
+              "RelativeToolTip": "AddWin.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDYAAAAjAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-10-17T22:53:53.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "Main.xaml.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\Main.xaml.cs",
+              "RelativeToolTip": "Main.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwEYAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-10-17T22:53:53.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-17T22:53:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\Main.xaml",
+              "RelativeDocumentMoniker": "Main.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\Main.xaml",
+              "RelativeToolTip": "Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-17T22:53:53.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataIO.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\DataIO.cs",
+              "RelativeDocumentMoniker": "DataIO.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\DataIO.cs",
+              "RelativeToolTip": "DataIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-10-17T22:53:53.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-17T22:53:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-10-17T22:53:53.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Satovi.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\Satovi.cs",
+              "RelativeDocumentMoniker": "Satovi.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\HCI_Sat\\HCI_Sat\\Satovi.cs",
+              "RelativeToolTip": "Satovi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-10-17T22:53:53.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
